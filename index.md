@@ -1,37 +1,51 @@
-## Welcome to GitHub Pages
+## Crescimento.Online Cursos
 
-You can use the [editor on GitHub](https://github.com/CrescimentoOnline/courses/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Aqui você irá aprender novas habilidades que irão te diferenciar na sua carreira.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Treinamento de programação com pouco código (OutSystems(c))
 
-### Markdown
+Usando uma plataforma online da OutSystems você irá aprender o poder da programação com pouco código.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Pessoas com conhecimento básico de programação ou lógica podem participar. 
+
+### Programação com pouco código (ou nennhum) também conhecido como low-code development
+
+Aprender fica mais fácil de forma visual. Aprender com a plataforma OutSystem lhe dará verdadeira satisfação pois terá uma forma inovadora de criar um sistema Web moderno.
+
+### Construir um painel de controle de forma visual
+
+Iremos fazer um bom uso da plataforma OutSystems criando um painel de administração de informações, com autenticação do usuário e mais.
 
 ```markdown
-Syntax highlighted code block
+Neste treinamento iremos abordar:
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
+- Service Studio Overview
+- Intro to OutSystems Development
+- Modeling Data
+- Reactive UI Development 101
+- Logic
+- Aggregates 101
+- Building Screens with Data
+- Modeling Data Relationships
+- Data Model Integrity
+- Building Reactive Web Forms
+- Form Validations
+- Role-based Security
+- Debugging in OutSystems
+- Advanced Aggregates
+- Blocks and Events
+- Reactive Programming Model
+- Client Variables and Site Properties
+- Pagination and Sorting
+- SQL Queries
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Como será o curso
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CrescimentoOnline/courses/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Vamos produzindo vídeos no YouTube a partir de encontros com os participantes pelo Google Meet.
+Terá uma duração de 3 ou mais aulas, depende da velocidade de absorção dos alunos e habilidade de facilitação do professor Bruno Guerra de Araújo.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Faça sua inscrição
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdFu0V4vAfmLEgyLXQS0B9POJ0xijfLEaDuZRvX1MuM2CftLg/viewform?embedded=true" width="640" height="1284" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
